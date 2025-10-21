@@ -17,23 +17,27 @@ Our platform aims to provide buyers and sellers with reliable predictions, intel
 
 ---
 
-## Homepage
+## Demo and Full Project
+
+- **Repository URL:** [https://github.com/shadow-1310/commodity-price-prediction](https://github.com/shadow-1310/commodity-price-prediction)
+
+---
+
+## Screenshots
+
+### Homepage
 
 ![Homepage Screenshot](README_images/home.png)
 
 ---
 
-## Features Wordcloud
-
-Visualizes important and popular features found in property listings to aid in feature importance analysis.
+### Features Wordcloud
 
 ![Features Wordcloud](README_images/wordcloud.png)
 
 ---
 
-## Price Prediction Example
-
-Enter property details to view the predicted price range. Example output:
+### Price Prediction Example
 
 | property_type | sector | bedRoom | bathroom | balcony | agePossession | built_up_area |
 |---------------|--------|---------|----------|---------|---------------|---------------|
@@ -45,57 +49,43 @@ The price of the flat is between **0.27 Cr and 0.71 Cr**.
 
 ---
 
-## Input Form Example
-
-Enter your property parameters to get predictions (Property Type, Sector, Bedrooms, Bathrooms, etc).
+### Input Form
 
 ![Input Form](README_images/input_form.png)
 
 ---
 
-## Analytics
-
-Explore price per square foot by location on the interactive geomap:
+### Sector Price per Sqft Geomap
 
 ![Sector Price per Sqft Geomap](README_images/geomap.png)
 
 ---
 
-## Area vs Price Scatter Plot
-
-Visualize how built-up area relates to price for selected property types:
+### Area vs Price Scatter Plot
 
 ![Area vs Price](README_images/area_vs_price.png)
 
 ---
 
-## BHK Pie Chart
-
-See the distribution of BHK (bedroom) counts across sectors:
+### BHK Pie Chart
 
 ![BHK Pie Chart](README_images/bhk_pie.png)
 
 ---
 
-## BHK Price Comparison
-
-Boxplots comparing prices by number of bedrooms:
+### BHK Price Comparison
 
 ![BHK Price Comparison](README_images/bhk_price_comparison.png)
 
 ---
 
-## Apartment Location & Radius Search
-
-Find all apartments within a given radius of a selected location:
+### Apartment Location & Radius Search
 
 ![Location and Radius Search](README_images/location_radius.png)
 
 ---
 
-## Recommend Apartments
-
-See top similar apartments based on a chosen reference property and similarity score:
+### Recommend Apartments
 
 | PropertyName            | SimilarityScore |
 |-------------------------|----------------:|
@@ -147,7 +137,3 @@ Deploy and run the Streamlit application on an AWS EC2 instance with these steps
     ```
     streamlit run Home.py
     ```
-
-Visit `http://<your-ec2-ip>:8501` in your browser to access the application.
-
----
