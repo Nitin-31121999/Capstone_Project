@@ -17,23 +17,26 @@ Our platform aims to provide buyers and sellers with reliable predictions, intel
 
 ---
 
-## Demo and Full Project
-
-- **Repository URL:** [https://github.com/shadow-1310/commodity-price-prediction](https://github.com/shadow-1310/commodity-price-prediction)
-
----
-
 ## Screenshots
 
 ### Homepage
 
-![Homepage Screenshot](README_images/home.png)
+![Homepage Screenshot](<img width="1672" height="781" alt="Screenshot 2025-10-21 221953" src="https://github.com/user-attachments/assets/21216be4-8b0e-46c0-98cf-c8ad4def7001" />
+)
 
 ---
 
-### Features Wordcloud
+### Geospatial analysis
 
-![Features Wordcloud](README_images/wordcloud.png)
+![Geospatial analysi](<img width="727" height="809" alt="Screenshot 2025-10-21 222213" src="https://github.com/user-attachments/assets/7ba9134a-2b64-496c-b5c6-d1254143c38b" />
+)
+
+---
+
+### Input Form
+
+![Input Form](<img width="609" height="856" alt="Screenshot 2025-10-21 222108" src="https://github.com/user-attachments/assets/f60d3155-f4d8-449f-9bd4-a831d5a9a1f1" />
+)
 
 ---
 
@@ -45,43 +48,44 @@ Our platform aims to provide buyers and sellers with reliable predictions, intel
 
 The price of the flat is between **0.27 Cr and 0.71 Cr**.
 
-![Price Prediction Output](README_images/price_prediction.png)
+![Price Prediction Output](<img width="557" height="124" alt="Screenshot 2025-10-21 222127" src="https://github.com/user-attachments/assets/3b9967ae-6ee6-4a96-8999-887a1f90c340" />
+)
 
 ---
 
-### Input Form
 
-![Input Form](README_images/input_form.png)
+### Features Wordcloud
 
----
-
-### Sector Price per Sqft Geomap
-
-![Sector Price per Sqft Geomap](README_images/geomap.png)
+![Features Wordcloud](<img width="840" height="817" alt="Screenshot 2025-10-21 222225" src="https://github.com/user-attachments/assets/7e7dbee1-4f1a-457c-bcc1-8ec2bb44adf7" />
+)
 
 ---
 
 ### Area vs Price Scatter Plot
 
-![Area vs Price](README_images/area_vs_price.png)
+![Area vs Price](<img width="844" height="608" alt="Screenshot 2025-10-21 222235" src="https://github.com/user-attachments/assets/d6330030-29c1-4faf-99e3-f8bdf87a5b33" />
+)
 
 ---
 
 ### BHK Pie Chart
 
-![BHK Pie Chart](README_images/bhk_pie.png)
+![BHK Pie Chart](<img width="859" height="620" alt="Screenshot 2025-10-21 222258" src="https://github.com/user-attachments/assets/8f771466-dd29-4d65-b8c9-0cdbd8aff26b" />
+)
 
 ---
 
 ### BHK Price Comparison
 
-![BHK Price Comparison](README_images/bhk_price_comparison.png)
+![BHK Price Comparison](<img width="767" height="522" alt="Screenshot 2025-10-21 222316" src="https://github.com/user-attachments/assets/ddc49753-295b-4418-b105-0c560180ffe3" />
+)
 
 ---
 
 ### Apartment Location & Radius Search
 
-![Location and Radius Search](README_images/location_radius.png)
+![Location and Radius Search](<img width="901" height="742" alt="Screenshot 2025-10-21 222427" src="https://github.com/user-attachments/assets/787d9dc7-2535-485f-9483-95430739d0ec" />
+)
 
 ---
 
@@ -95,7 +99,6 @@ The price of the flat is between **0.27 Cr and 0.71 Cr**.
 | Pioneer Araya           |         0.791   |
 | La Lagune               |         0.7877  |
 
-![Recommend Apartments](README_images/recommend_apartments.png)
 
 ---
 
