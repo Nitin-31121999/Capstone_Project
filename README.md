@@ -84,8 +84,7 @@ The price of the flat is between **0.27 Cr and 0.71 Cr**.
 
 ### Apartment Location & Radius Search
 
-![Location and Radius Search](<img width="901" height="742" alt="Screenshot 2025-10-21 222427" src="https://github.com/user-attachments/assets/787d9dc7-2535-485f-9483-95430739d0ec" />
-)
+![Location and Radius Search](https://private-user-images.githubusercontent.com/177639605/503805242-a9b82cf4-6fa0-4920-a8fc-1f698557c022.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwNjg5MTgsIm5iZiI6MTc2MTA2ODYxOCwicGF0aCI6Ii8xNzc2Mzk2MDUvNTAzODA1MjQyLWE5YjgyY2Y0LTZmYTAtNDkyMC1hOGZjLTFmNjk4NTU3YzAyMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMVQxNzQzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YzE4YzJiMmFjYzU2N2Q0ZjkzZGNmOTk4MTg2NjM1MzFmZWU4NTRjYzdjMmI0MjAyYjM0MTI2OTU5NGE5ZWY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8iG1GweQcOSEehGYEu6FHVWFcjdVo5NVTCSgO2cQEXo)
 
 ---
 
