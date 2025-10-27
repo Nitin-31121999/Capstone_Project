@@ -17,7 +17,6 @@ Our platform aims to provide buyers and sellers with reliable predictions, intel
 
 ---
 
-## Screenshots
 
 ### Homepage
 
