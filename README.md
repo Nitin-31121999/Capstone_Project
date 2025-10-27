@@ -1,9 +1,5 @@
 # Real Estate Insights and Price Prediction Portal
 
-This repository contains an advanced analytics platform for real estate insights and property price prediction using machine learning.
-
----
-
 ## Overview of the Website
 
 The portal empowers users to:
@@ -68,7 +64,7 @@ The price of the flat is between **0.27 Cr and 0.71 Cr**.
 
 ### BHK Price Comparison
 
-![BHK Price Comparison](https://private-user-images.githubusercontent.com/177639605/503805239-bffd16a5-dee5-4128-86b1-5518047559e6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwNjk0NDEsIm5iZiI6MTc2MTA2OTE0MSwicGF0aCI6Ii8xNzc2Mzk2MDUvNTAzODA1MjM5LWJmZmQxNmE1LWRlZTUtNDEyOC04NmIxLTU1MTgwNDc1NTllNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMVQxNzUyMjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDUyZDU3ZDU1YmFjZDcwN2U3NzY0MWY5ZjU3YmVmZWJmNTkwZjNmMWNlMTE2Nzc2Mzk5NTE4Yjk5MjU1MzgxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ySXD-6tvoEIVwCpUNgAvcRWkjn-T6JTyNrxXxFurlXw)
+![BHK Price Comparison]()
 
 ---
 
