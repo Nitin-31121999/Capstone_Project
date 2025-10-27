@@ -64,7 +64,7 @@ The price of the flat is between **0.27 Cr and 0.71 Cr**.
 
 ### BHK Price Comparison
 
-![BHK Price Comparison]()
+![BHK Price Comparison](https://github.com/Nitin-31121999/Capstone_Project/blob/f4f70f2e707050431b41efe05863099b51e3c787/Screenshot%202025-10-27%20102419.png)
 
 ---
 
